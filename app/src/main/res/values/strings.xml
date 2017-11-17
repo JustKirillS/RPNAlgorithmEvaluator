@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WalkMeTest</string>
+    <string name="formula">Formula:</string>
+    <string name="result">Result:</string>
+    <string name="show_all_results">Show All Results</string>
+    <string name="error_empty_formula">Please enter formula</string>
+    <string name="error_parsing_formula">input error near \'%1$s\' index \'%2$d\'"</string>
+    <string name="results_list_empty">No previous results</string>
+    <string name="enter_formula_hint">Enter formula</string>
+</resources>
